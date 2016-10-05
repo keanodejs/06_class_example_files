@@ -1,0 +1,15 @@
+{
+  "name": "dymmyproject",
+  "version": "1.0.0",
+  "description": "This is a dummy project showing how to generate a package .json file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dummy",
+    "package.json"
+  ],
+  "author": "clbo",
+  "license": "ISC"
+}
